@@ -1,0 +1,10 @@
+.bsccontainer {
+  padding: 50px;
+  height: 100vh;
+  background: url("/src/img/Account2.png"),
+    linear-gradient(105deg, rgb(255, 79, 30) 0%, rgb(255, 44, 107) 100%);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+}
